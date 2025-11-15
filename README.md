@@ -10,6 +10,10 @@ Die Dateien sind in erster Linie als **Dokumentation meiner eigenen Auswertungen
 
 ## 8 Dünne Linsen 
 
+## 9 Gitter / Prisma
+
+## 10 Mikroskop
+
 ## 12 Oszillograph
 
 ## 13 Erneuerbare Energien
